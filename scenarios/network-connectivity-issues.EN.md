@@ -6,7 +6,7 @@ The user reports they can’t access the internet or internal services. This may
 ## Possible causes 🛠️
 - Wi-Fi disconnected or connected to the wrong network
 - Ethernet cable unplugged or damaged
-- IP address not assigned correctly (DHCP issue)
+- IP address not assigned correctly (DHCP (more about DHCP on "Notes 📝" topic) issue)
 - DNS problem (internet works poorly, some sites/services fail)
 - Temporary network instability or maintenance
 
@@ -25,3 +25,5 @@ The user reports they can’t access the internet or internal services. This may
 
 ## Notes 📝
 Document what was tested and the results (what worked, what didn’t). This helps a lot when escalating.
+
+- DHCP is like a digital valet for your network. When your device connects, it automatically hands you a 'parking spot' (IP address) and the 'keys' (network settings) so you can start surfing right away without having to set anything up yourself.
