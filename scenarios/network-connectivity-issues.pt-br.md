@@ -6,7 +6,7 @@ O usuário relata que não consegue acessar a internet ou serviços internos. Is
 ## Possíveis causas 🛠️
 - Wi-Fi desconectado ou conectado na rede errada
 - Cabo de rede solto ou danificado
-- IP não atribuído corretamente (problema de DHCP (significado nas observações))
+- IP não atribuído corretamente (problema de DHCP (mais informações sobre DHCP no tópico "Observações 📝".))
 - Falha de DNS (alguns sites/sistemas não abrem)
 - Instabilidade temporária ou manutenção na rede
 
